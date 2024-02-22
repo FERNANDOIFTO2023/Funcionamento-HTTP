@@ -39,8 +39,8 @@
 
 #### Os mais comuns são:
 
--_POST: usado para enviar dados ao servidor, como ao preencher um formulário online._
+- _POST: usado para enviar dados ao servidor, como ao preencher um formulário online._
 
--_PUT: usado para atualizar um recurso no servidor._
+- _PUT: usado para atualizar um recurso no servidor._
 
--_DELETE: usado para excluir um recurso do servidor._
+- _DELETE: usado para excluir um recurso do servidor._
